@@ -1,0 +1,15 @@
+{
+    "name": "mrafii/beljarcomposer",
+    "description": "untuk belajar",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Muhammad Rafii",
+            "email": "muhammadrafi0405@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
